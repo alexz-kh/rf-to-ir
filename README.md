@@ -1,6 +1,9 @@
-# rf-to-ir
+rf-to-ir
+========
+
 Recive from rf, send with IR
-============================
+
+Simple code for microlab solo 6c speakers IR.
 
 For some reason, module not work
 with rc-switch from pio lib.
